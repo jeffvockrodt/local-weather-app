@@ -1,6 +1,6 @@
 {
   "extends": [
-    "rslint:recommended",
+    "tslint:recommended",
     "tslint-etc",
     "tslint-config-prettier",
     "tslint-plugin-prettier",
