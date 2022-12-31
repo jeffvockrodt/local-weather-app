@@ -4,7 +4,7 @@
     "tslint-etc",
     "tslint-config-prettier",
     "tslint-plugin-prettier",
-    "tsline-etc"
+    "tslint-etc"
   ],
   "rules": {
     "no-unused-declaration": true,
