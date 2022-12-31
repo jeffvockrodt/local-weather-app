@@ -3,7 +3,7 @@
     "tslint:recommended",
     "tslint-etc",
     "tslint-config-prettier",
-    "tslint-plugin-prettier",
+    "tslint-plugin-prettier"
   ],
   "rules": {
     "no-unused-declaration": true,
